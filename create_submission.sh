@@ -1,5 +1,5 @@
 mkdir -p submission
-cp helpers.py submission/
-cp project.ipynb submission/
+cp Code_DDPG_Oancea_Gounot.ipynb submission/
+cp Report_DDPG_Oancea_Gounot.pdf submission/
 
-zip -r submission.zip submission
+zip -r DDPG_Oancea_Gounot.zip submission
